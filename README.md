@@ -9,7 +9,6 @@
 - Challenges we faced
 * Team Contribution
 + Future Scope
-## Installation
 
 ## Team Contribution
 1. Midatana Sai Praneetha: Worked on designing the application's front end along with the product's documentation.
