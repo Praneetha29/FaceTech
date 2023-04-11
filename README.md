@@ -2,13 +2,6 @@
 > Taking attendance in a class with more than 100 students can be a challenging and time-consuming task for teachers. It may require them to manually call out each student's name and mark their attendance on a paper or an attendance register.
 
 **Facetech** automates the manual and time-consuming process of taking attendance, which is often prone to errors. To achieve this, we have developed an attendance management system that utilizes an automated face detection system based on a CNN-based network called the Siamese network.
-## Contents
-- Installation
-* Tech-Stacks Used
-+ Workflow of the application
-- Challenges we faced
-* Team Contribution
-+ Future Scope
 
 ## Team Contribution
 1. Midatana Sai Praneetha: Worked on designing the application's front end along with the product's documentation.
