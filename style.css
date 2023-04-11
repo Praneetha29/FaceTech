@@ -173,8 +173,111 @@ footer {
   footer p{
     margin-left:550px;
   }
+/* Style for inputStudentEntry section */
+.inputStudentEntry {
+	background-color: #576CBC;
+	color: #fff;
+	padding: 50px;
+  }
   
-
+  .inputStudentEntry form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  }
+  
+  .inputStudentEntry label {
+	font-size: 24px;
+  }
+  
+  .inputStudentEntry input[type="number"],
+  .inputStudentEntry input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	margin: 10px 0;
+  }
+  
+  .inputStudentEntry input[type="submit"] {
+	background-color: #fff;
+	color: #576CBC;
+	font-weight: bold;
+	cursor: pointer;
+  }
+  
+  /* Style for viewClassData section */
+  .viewClassData {
+	background-color: #576CBC;
+	color: #fff;
+	padding: 30px;
+	align-items: center;
+	display:list-item;
+  }
+  
+  .viewClassData form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  }
+  
+  .viewClassData label {
+	font-size: 24px;
+  }
+  
+  .viewClassData input[type="number"],
+  .viewClassData input[type="text"],
+  .viewClassData input[type="file"],
+  .viewClassData input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	margin: 10px 0;
+  }
+  
+  .viewClassData input[type="submit"] {
+	background-color: #fff;
+	color: #576CBC;
+	font-weight: bold;
+	cursor: pointer;
+  }
+  
+  /* Style for viewStudentData section */
+  .viewStudentData {
+	background-color: #576CBC;;
+	color: #fff;
+	padding: 50px;
+  }
+  
+  .viewStudentData form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  }
+  
+  .viewStudentData label {
+	font-size: 24px;
+  }
+  
+  .viewStudentData input[type="number"],
+  .viewStudentData input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	margin: 10px 0;
+  }
+  
+  .viewStudentData input[type="submit"] {
+	background-color: #fff;
+	color: #576CBC;
+	font-weight: bold;
+	cursor: pointer;
+  }
   
 
 @media screen and (max-width: 768px) {
