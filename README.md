@@ -3,6 +3,14 @@
 
 **Facetech** automates the manual and time-consuming process of taking attendance, which is often prone to errors. To achieve this, we have developed an attendance management system that utilizes an automated face detection system based on a CNN-based network called the Siamese network.
 
+## How to setup and run 
+1. Download Visual studio 
+2. Select c++ development kit while installing Visual Studio 
+3. Install the dependencies from requirements.txt 
+`pip install -r requirements.txt`
+4. Run app.py 
+5. Click on index.html to get started
+
 ## Team Contribution
 1. Midatana Sai Praneetha: Worked on designing the application's front end along with the product's documentation.
 2. Sayantan Chatterjee: Worked on the backend of the application and explored different APIs to compile the overall project.
